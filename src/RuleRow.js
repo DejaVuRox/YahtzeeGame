@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './RuleRow.scss'
+import './RuleRow.css'
 
 class RuleRow extends Component {
   render() {
